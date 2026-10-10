@@ -1,0 +1,6 @@
+libTracePass.so
+app_trace.o
+app_trace.ll
+app_nophi.o
+trace-app
+trace-app-nophi
