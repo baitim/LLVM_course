@@ -1,0 +1,7 @@
+sim.o
+check_backend.o
+asm2ir
+asm2ir_check
+app_ref
+app_ext.ll
+app_full.ll
